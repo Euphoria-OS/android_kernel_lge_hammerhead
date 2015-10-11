@@ -84,3 +84,10 @@ GTAGS
 *.orig
 *~
 \#*#
+
+package/
+build.sh
+kernel/usr/
+mkbootfs
+mkbootimg
+
